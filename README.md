@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Islam Turky
 - 👀 I’m interested in Embedded system
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently Computer Science
 - 💞️ I’m looking to collaborate on Build Projects
 
 <!---
