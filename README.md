@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/Islam-Turky/Islam-Turky/blob/63ec0219993208e909816cba58945424e576535d/Your%20paragraph%20text%20(1).gif" align="center" height="325"/>
+ <img src="https://github.com/Islam-Turky/Islam-Turky/blob/63ec0219993208e909816cba58945424e576535d/Your%20paragraph%20text%20(1).gif" align="center" height="525"/>
 </div>  
   
 
