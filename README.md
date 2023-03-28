@@ -1,7 +1,7 @@
 <div align="center">
 <!-- <img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" /> -->
 <!-- <img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" /> -->
- <img src="https://github.com/Islam-Turky/Islam-Turky/blob/6ac494286f428fc0c43f1471b91ee7824b577214/Untitled%20design.gif" align="center"/>
+ <img src="https://github.com/Islam-Turky/Islam-Turky/blob/6ac494286f428fc0c43f1471b91ee7824b577214/Untitled%20design.gif" align="center" height="325"/>
 </div>  
   
 
