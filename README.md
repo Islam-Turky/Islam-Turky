@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
-<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
+<!-- <img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" /> -->
+<!-- <img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" /> -->
+ <img src="https://www.canva.com/design/DAFeea13Its/cwAzThk9jtSkuJeHuQ9ILw/edit?utm_content=DAFeea13Its&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" align="center"/>
 </div>  
   
 
