@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/Islam-Turky/Islam-Turky/blob/0954f0ce6d2cfa382b6ddc2b5cc54e13f5d5af49/C++.gif" align="center" height="325" border-radius= "20px"/>
+ <img src="https://github.com/Islam-Turky/Islam-Turky/blob/0954f0ce6d2cfa382b6ddc2b5cc54e13f5d5af49/C++.gif" align="center" height="325"/>
 </div>  
   
 
