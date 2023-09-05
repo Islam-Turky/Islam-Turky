@@ -6,7 +6,7 @@
 # <div align="center">Developer Full Stack / React - NodeJS</div>  
 
 
-- 🌱 I’m currently learning ThreeJS / Blender    
+- 🌱 My Skills ...    
 
 <br/>  
 
