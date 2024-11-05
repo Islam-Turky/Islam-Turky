@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">Developer Full Stack / React - NodeJS</div>  
+# <div align="center">Full Stack Developer</div>  
 
 
 - 🌱 My Skills ...    
