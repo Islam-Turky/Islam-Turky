@@ -58,6 +58,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Islam-Turky/Islam-Turky/output/snake.svg" alt="Snake animation" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtmMWZlcmlxZmN1OXhudHdqd3o3OTl3dDExd29wcG5xOHp3M3oyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" alt="Snake animation" />
 
 ###
