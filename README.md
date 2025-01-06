@@ -5,7 +5,7 @@
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Islam-Turky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZybzFmOWZidHNyc256eWp0bTJqd2o0ZDFldXB4djA4Znc0eWRveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp3GUtG2waC88/giphy.gif"  />
 </div>
 ###
