@@ -58,6 +58,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Islam-Turky/Islam-Turky/blob/aeea18d7e088be034a25ba269921f0d89768a3bf/snake.yml" alt="Snake animation" />
+<img src="https://github.com/Islam-Turky/Islam-Turky/snake.svg" alt="Snake animation" />
 
 ###
